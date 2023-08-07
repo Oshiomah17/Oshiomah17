@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oshiomah17
 - 👀 I’m interested in projects related to DevOps and Software Development, 
 - 🌱 I’m currently learning and working as a DevOps Engineer
-- 💞️ I’m looking to collaborate on Slacck and any other platform
+- 💞️ I’m looking to collaborate on Slack and any other platform
 - 📫 You can reach me on oshiomahimionighie@gmail.com
 
 <!---
